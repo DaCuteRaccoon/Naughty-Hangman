@@ -1,4 +1,4 @@
 #!/bin/bash
 
 clear
-ruby lib/hangman.rb
+ruby lib/main.rb
